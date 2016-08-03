@@ -4,7 +4,7 @@ There is no better way to feel like a developer than by actually becoming one, w
 
 We have already created a template, but you need to use your Git, HTML and CSS skills to submit an updated version of the site with your information. Here we go!
 
-## Requirements
+## Requiremen
 
 You'll need the following information about yourself:
 
@@ -61,12 +61,12 @@ The first thing you'll need to do is add your image assets.
     * If you hover over the top right of each image, you should see a link with 3 little dots on the left, hover over those dots and copy the *direct link* URL and paste that somewhere safe. *You will need to use these links in the `css/styles.css` file to be able to display the images in your profile*.
 
 
-  
+
   * Now we're ready to create the CSS rules that we can use to display our pictures in the HTML later on.
    * Head to the `css/styles.css` file.
    * check out some students css in the file to see what you'll need to do.
-   
-  It should look something like thie 
+
+  It should look something like thie
 
   ```css
     #firstname-lastname-cover {
